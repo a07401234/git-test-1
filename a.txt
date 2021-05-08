@@ -5,3 +5,7 @@ aaaaaa
 
 bbcccc
 123
+
+message 寫清楚
+每次的commit內容盡量小
+可以動的commit
