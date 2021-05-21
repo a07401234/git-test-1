@@ -11,3 +11,5 @@ message 寫清楚
 可以動的commit
 
 yes!!
+
+try to sync
