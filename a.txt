@@ -15,3 +15,5 @@ yes!!
 try to sync
 
 another new line
+
+merge success
