@@ -19,3 +19,7 @@ yes!!
 try to sync
 
 another new line
+
+merge success
+
+超爽的~~~~~ 撿到一百塊雷~ 黑人給我閉嘴，歐巴馬~ 歐巴馬是誰？我才不告訴逆雷~~~（以上是來自晁榮的 pull request）
