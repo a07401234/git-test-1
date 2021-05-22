@@ -7,7 +7,5 @@ bbcccc
 123
 
 message 寫清楚
-每次的commit內容盡量小
-可以動的commit
-
-yes!!
+每次的commit的單位盡量小，增加版本控管的便利性
+完成功能在push
