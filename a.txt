@@ -7,6 +7,10 @@ bbcccc
 123
 
 message 寫清楚
+
+每次的commit的單位盡量小，增加版本控管的便利性
+完成功能在push
+
 每次的commit內容盡量小
 可以動的commit
 
@@ -18,5 +22,6 @@ another new line
 
 merge success
 
-
 安安你好安安
+
+超爽的~~~~~ 撿到一百塊雷~ 黑人給我閉嘴，歐巴馬~ 歐巴馬是誰？我才不告訴逆雷~~~（以上是來自晁榮的 pull request）
